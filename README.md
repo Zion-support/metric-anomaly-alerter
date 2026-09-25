@@ -32,5 +32,15 @@ Growth, ops, and finance teams who need to know about KPI breaks in minutes, not
 - [report-scheduler-ai](https://github.com/Zion-support/report-scheduler-ai) — https://ziontechgroup.com/report-scheduler-ai/
 - [social-listening-radar](https://github.com/Zion-support/social-listening-radar) — correlate with brand buzz: https://ziontechgroup.com/social-listening-radar/
 
+
+## 📈 Data Operations & Observability AI Suite
+This app is part of the interlinked Data Operations & Observability AI suite:
+- Suite landing page: https://ziontechgroup.com/ai-data-observability-suite/
+- Category page: https://github.com/Zion-support/zion-network/blob/main/network/data-observability-ai.md
+- Registry: https://github.com/Zion-support/zion-network/blob/main/network/data-observability-apps.json
+- Spotlight: https://github.com/Zion-support/zion-network/blob/main/spotlights/data-observability.md
+
+Suite apps: [Data Catalog Copilot](https://ziontechgroup.com/data-catalog-copilot/) · [Data Quality Watchdog](https://ziontechgroup.com/data-quality-watchdog/) · [ETL Pipeline Monitor](https://ziontechgroup.com/etl-pipeline-monitor/) · [Metric Anomaly Alerter](https://ziontechgroup.com/metric-anomaly-alerter/) · [Dashboard Insight Narrator](https://ziontechgroup.com/dashboard-insight-narrator/) · [Report Scheduler AI](https://ziontechgroup.com/report-scheduler-ai/) · [API Health Probe](https://ziontechgroup.com/api-health-probe/) · [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/) · [Cloud Architect Diagram Builder](https://ziontechgroup.com/cloud-architect-diagram-builder/)
+
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/

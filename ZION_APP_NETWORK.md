@@ -1,11 +1,12 @@
-# 🔗 Zion AI App Network
+# Zion App Network — Interlinks for metric-anomaly-alerter
 
-Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+Metric Anomaly Alerter is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂 Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 📰 Live app: https://ziontechgroup.com/metric-anomaly-alerter/
-- 🔗 Related: [Dashboard Insight Narrator](https://ziontechgroup.com/dashboard-insight-narrator/) · [ETL Pipeline Monitor](https://ziontechgroup.com/etl-pipeline-monitor/) · [Discovery](https://ziontechgroup.com/discovery/)
+- Live app: https://ziontechgroup.com/metric-anomaly-alerter/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 51 spotlight (Data Engineering & Observability): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH51.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch51-sept26.html
 
-© 2026 Zion Tech Group.
+## Related data apps
+[Zion Data Pipeline Hub](https://ziontechgroup.com/zion-data-pipeline-hub/) · [ETL Copilot AI](https://ziontechgroup.com/etl-copilot-ai/) · [Data Quality Guard](https://ziontechgroup.com/data-quality-guard/) · [Stream Analytics Hub](https://ziontechgroup.com/stream-analytics-hub/) · [Warehouse Optimizer AI](https://ziontechgroup.com/warehouse-optimizer-ai/) · [Data Catalog AI](https://ziontechgroup.com/data-catalog-ai/) · [Dashboard Insight Narrator](https://ziontechgroup.com/dashboard-insight-narrator/)
+
+© 2026 Zion Tech Group · https://ziontechgroup.com
